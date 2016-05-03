@@ -1,0 +1,13 @@
+# Eclipse default directory
+RemoteSystemsTempFiles
+.metadata
+.recommenders
+
+# Binary files and other unnecessary files
+.settings/
+bin/
+.classpath
+.project
+
+# Temporary
+Week03
